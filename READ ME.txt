@@ -1,0 +1,11 @@
+=>TIC-TAC TOO CONSLE GAME:
+
+=>How to play ? 
+	-> write x player name and o player name .
+	-> then the game start with result = 0 : 0 .
+	-> the game start with player o , which will choose from 1 to 9 number which is box in the 3*3 grid .
+	-> then the grid printed where the o player choose  , and the chance will be with player x .
+	-> the game end if all boxes fill , or if three boxes behind each other fill with o or x .
+	-> then player can restart the game with new score = 1 : 0 or vice versa or 0 : 0 .
+	-> or they can end the game .
+	-> if they end the game , final result will printed .
